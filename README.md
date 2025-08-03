@@ -16,7 +16,7 @@ Easily convert between Celsius, Fahrenheit, and Kelvin in real-time.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 
 ## 🔗 Live Demo
