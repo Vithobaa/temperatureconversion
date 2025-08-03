@@ -21,4 +21,4 @@ Easily convert between Celsius, Fahrenheit, and Kelvin in real-time.
 
 ## 🔗 Live Demo
 
-[Click here to try it out](https://vithobaa.github.io/temp-converter)
+[Click here to try it out](https://vithobaa.github.io/temperatureconversion/)
